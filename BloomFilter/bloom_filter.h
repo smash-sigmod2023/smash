@@ -1,6 +1,3 @@
-//
-// Created by ssqstone on 2018/7/17.
-//
 #include "common.h"
 
 #pragma once
